@@ -1,0 +1,53 @@
+.sys,.lay,.key,.lap{
+            float:left;
+            padding-left:81px;
+            padding-right:81px;
+            width:90px;
+        }
+        .lay{
+            background-color:burlywood;
+
+        }
+        .sys{
+            background-color:aliceblue;
+        }
+        .ind{
+            background-color:cornsilk;
+        }
+        .key{
+            background-color:chartreuse;
+        }
+        .lap{
+            background-color:gold;
+        }
+        .c{
+            clear:right;
+        }
+       
+        
+        .col1{
+           
+        height: 300px;
+           width: 50%;
+          background-color: powderblue;
+          float:left;
+        
+           
+        }
+        .col2{
+             height: 300px;
+           width: 50%;
+          background-color:palegreen;
+          float:right;
+           
+           
+        }
+      .button1,.button2{
+        height:50px;
+        width:200px;
+        background-color:darkturquoise;
+        border-radius:20px;
+          text-align:center;
+        margin: 20px 20px 20px 200px;
+        
+      }
